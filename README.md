@@ -1,16 +1,3 @@
-# WiKISQL_IPL
----
-language: en
-datasets:
-- wikisql
-widget:
-- text: >-
-    translate English to SQL: How many models were finetuned using BERT as base
-    model?
-license: apache-2.0
----
-
-
 # T5-base fine-tuned on WikiSQL
 
 [Google's T5](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) fine-tuned on [WikiSQL](https://github.com/salesforce/WikiSQL) for **English** to **SQL** **translation**.
